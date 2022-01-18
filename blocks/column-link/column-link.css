@@ -1,0 +1,15 @@
+.column-link{
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 18px;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+.column-link:last-child{
+  margin-bottom: 0;
+}
+
