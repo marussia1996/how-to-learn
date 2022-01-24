@@ -1,7 +1,5 @@
 .footer__author{
-  position: absolute;
-  left: 0;
-  bottom: 0;
+  align-self: flex-end;
   margin: 18px 0;
   color: white;
   font-size: 18px;
