@@ -1,4 +1,4 @@
-.column-link{
+.footer__column-link{
   margin-bottom: 10px;
   font-size: 18px;
   font-weight: normal;
@@ -9,7 +9,7 @@
   flex-direction: row-reverse;
   justify-content: flex-end;
 }
-.column-link:last-child{
+.footer__column-link:last-child{
   margin-bottom: 0;
 }
 
