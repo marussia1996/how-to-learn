@@ -23,4 +23,4 @@
 - склонируйте репозиторий;
 - запустите Live Server с помощью расширения VSCode.
 
-**Демо проекта:** https://study-sepia.vercel.app/
+**Демо проекта:** https://how-to-learn-iota-nine.vercel.app/
